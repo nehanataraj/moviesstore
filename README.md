@@ -1,1 +1,1 @@
-https://nnataraj.pythonanywhere.com/cart/
+https://nnataraj.pythonanywhere.com/
